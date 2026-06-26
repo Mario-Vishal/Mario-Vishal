@@ -1,54 +1,43 @@
-# Hi, I am Mario 👋
+# Hi, I'm Mario Vishal R
 
-## AI Systems Engineer · Research-minded Builder · LLM Infrastructure
+## AI | Backend | Data | MS CS @ UF
 
-I build practical, visual systems to make LLM serving behavior understandable.
-My focus is on memory systems, latency tradeoffs, and architecture decisions that improve real-time inference quality.
+I build practical systems that make AI and data-heavy applications easier to reason about, ship, and maintain. My work sits around backend engineering, applied AI, data systems, and developer-focused product experiences.
 
 ![GitHub followers](https://img.shields.io/github/followers/Mario-Vishal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Mario-Vishal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 
-### Currently shipping
+### Currently focused on
 
-- **Mini-AsymCache** — A visual simulator for KV-cache eviction, recomputation cost, and end-to-end latency tradeoffs in LLM serving.
-- Exploring production-friendly interpretations of cache policy research for robust and explainable systems design.
+- AI systems and LLM infrastructure
+- Backend services, APIs, and reliable data workflows
+- Performance-aware engineering with clear tradeoff analysis
+- Building polished technical tools that are useful beyond a demo
 
-### What I care about
+### Featured work
 
-- Performance engineering with correctness-first thinking
-- Systems-level simulation before production adoption
-- Interpretable metrics for real tradeoff decisions
-- Strong product-like UX for technical tools
+#### Mini-AsymCache
 
-### Highlights
+[Mini-AsymCache](https://github.com/Mario-Vishal/mini-asymcache) is a browser-based simulator for comparing KV-cache policies in LLM serving systems. It helps visualize latency, memory pressure, recomputation cost, misses, TTFT, and TPOT across policy choices.
 
-- **Project:** [Mini-AsymCache](https://github.com/Mario-Vishal/mini-asymcache)
-- **Research inspired by:** AsymCache-style latency-aware KV-cache management ideas
-- **Core stack:** React, TypeScript, Vite, Recharts, TailwindCSS, Framer Motion
-- **Approach:** turn papers into practical, visual, configurable experiments
+Key areas:
 
-### Project Portfolio
+- Latency-aware cache policy simulation
+- Timeline-level cache event tracking
+- Scenario-based stress controls
+- Educational analytics for system tradeoffs
 
-#### 📌 `Mini-AsymCache`
+### Skills
 
-A browser-based simulator that compares LRU, LFU, Position-aware, and Latency-aware policies through:
+**Languages:** Python, TypeScript, JavaScript, SQL
 
-- policy deltas (latency, TTFT, TPOT, recompute, misses, memory)
-- timeline-level cache event tracking
-- scenario-based stress controls
-- educational analytics panels
+**Backend and data:** APIs, data workflows, system design, performance analysis
 
-Repository: [github.com/Mario-Vishal/mini-asymcache](https://github.com/Mario-Vishal/mini-asymcache)
+**Frontend and tooling:** React, Vite, Tailwind CSS, Recharts, Vitest
 
-### Selected Skills
+**Focus areas:** AI systems, LLM serving, backend engineering, data-driven product engineering
 
-**Languages**: TypeScript, JavaScript, Python, SQL
-
-**Systems & Tools**: Git, GitHub, React, Vite, Node.js, TailwindCSS, Recharts, Vitest
-
-**Focus Areas**: LLM serving systems, KV-cache policy design, simulation, data-driven product engineering
-
-### GitHub activity snapshot
+### GitHub activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Vishal&layout=compact&theme=react)
 
@@ -57,14 +46,4 @@ Repository: [github.com/Mario-Vishal/mini-asymcache](https://github.com/Mario-Vi
 ### Contact
 
 - GitHub: [github.com/Mario-Vishal](https://github.com/Mario-Vishal)
-- LinkedIn: add your profile link
-
----
-
-## How to apply this to your GitHub profile
-
-1. Create or open your profile repository: `YOUR_USERNAME/YOUR_USERNAME`
-2. Replace its root `README.md` with the contents of `GITHUB_PROFILE_README.md`
-3. Commit and push to make the page live
-
-You already keep project-level polish in `mini-asymcache`; this file brings the same professional tone to your profile homepage.
+- Location: California, USA
