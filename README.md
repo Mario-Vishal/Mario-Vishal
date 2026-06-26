@@ -2,40 +2,45 @@
 
 ## AI | Backend | Data | MS CS @ UF
 
-I build practical systems that make AI and data-heavy applications easier to reason about, ship, and maintain. My work sits around backend engineering, applied AI, data systems, and developer-focused product experiences.
+I build AI and data-heavy software with a backend-first mindset: reliable services, useful developer tools, auditable workflows, and interfaces that make complex systems easier to understand.
+
+Currently based in California and working across applied AI, backend engineering, data systems, and product-focused technical tooling.
 
 ![GitHub followers](https://img.shields.io/github/followers/Mario-Vishal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Mario-Vishal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 
-### Currently focused on
+### What I work on
 
-- AI systems and LLM infrastructure
-- Backend services, APIs, and reliable data workflows
-- Performance-aware engineering with clear tradeoff analysis
-- Building polished technical tools that are useful beyond a demo
+- AI applications that are practical, inspectable, and useful in real workflows
+- Backend systems, APIs, data pipelines, and service reliability
+- LLM tooling for retrieval, context optimization, local-first workflows, and serving tradeoffs
+- Full-stack product experiences where technical depth and UX both matter
 
-### Featured work
+### Selected projects
 
-#### Mini-AsymCache
+- [Splitmaa](https://github.com/Mario-Vishal/splitmaa): edge-device LLM mobile showcase for safe local function calling in expense workflows.
+- [TokenGate](https://github.com/Mario-Vishal/tokengate): context optimization for LLM apps with ranked, deduped, budgeted chunks and an audit trail.
+- [Beacon](https://github.com/Mario-Vishal/beacon): local-first desktop RAG app for private document search and chat with local LLMs.
+- [Mini-AsymCache](https://github.com/Mario-Vishal/mini-asymcache): visual simulator for exploring KV-cache policy tradeoffs in LLM serving.
 
-[Mini-AsymCache](https://github.com/Mario-Vishal/mini-asymcache) is a browser-based simulator for comparing KV-cache policies in LLM serving systems. It helps visualize latency, memory pressure, recomputation cost, misses, TTFT, and TPOT across policy choices.
+### Technical interests
 
-Key areas:
+- Applied AI systems and LLM infrastructure
+- Backend architecture and API design
+- Retrieval, RAG, and context engineering
+- Data workflows, evaluation, and observability
+- Performance analysis and system tradeoffs
+- Developer tools and polished technical interfaces
 
-- Latency-aware cache policy simulation
-- Timeline-level cache event tracking
-- Scenario-based stress controls
-- Educational analytics for system tradeoffs
+### Stack
 
-### Skills
+**Languages:** Python, TypeScript, JavaScript, SQL, Kotlin
 
-**Languages:** Python, TypeScript, JavaScript, SQL
+**Backend and data:** APIs, data workflows, system design, local-first AI, RAG, evaluation
 
-**Backend and data:** APIs, data workflows, system design, performance analysis
+**Frontend and product:** React, Vite, Tailwind CSS, Recharts, mobile and desktop app experiences
 
-**Frontend and tooling:** React, Vite, Tailwind CSS, Recharts, Vitest
-
-**Focus areas:** AI systems, LLM serving, backend engineering, data-driven product engineering
+**Tools:** Git, GitHub, Node.js, Vitest, Python tooling, automation-first workflows
 
 ### GitHub activity
 
