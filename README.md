@@ -34,7 +34,7 @@ Currently based in California and working across applied AI, backend engineering
 
 ### Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL, Kotlin
+**Languages:** C#/.NET, Python, TypeScript, JavaScript, SQL, Kotlin
 
 **Backend and data:** APIs, data workflows, system design, local-first AI, RAG, evaluation
 
